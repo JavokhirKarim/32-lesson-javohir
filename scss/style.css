@@ -729,6 +729,9 @@ body .company-content .comp-card .comp-left .btn6 {
   height: 50px;
   margin-top: 50px;
 }
+body footer {
+  padding-bottom: 50px;
+}
 body footer .footer-content {
   padding-top: 150px;
   display: flex;
